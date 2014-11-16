@@ -1,0 +1,2 @@
+riak:
+  bind_iface: 'eth0'
